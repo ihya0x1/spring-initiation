@@ -39,7 +39,7 @@ Each package includes:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/ihya0x1/spring-initiation.git
-   cd spring-tp1
+   cd spring-initiation
 2. **Open the project in Eclipse**:
 
 - File → Import → Existing Maven Projects
