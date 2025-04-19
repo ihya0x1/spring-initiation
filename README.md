@@ -16,7 +16,7 @@ src/
             ├── xmlconfig/     → XML-based Spring configuration
             ├── javaconfig/    → Java annotations (@Component, @Value)
             └── autowired/     → Dependency injection using @Autowired
-
+```
 
 Each package includes:
 - A `HelloWorld` bean
