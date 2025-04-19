@@ -9,7 +9,13 @@ The objective is to learn the basics of Spring Framework, particularly how to co
 
 ## 🧩 Project Structure
 
-src/ └── main/ └── java/ └── hellospring/ ├── xmlconfig/ # XML-based Spring configuration ├── javaconfig/ # Java annotations (@Component, @Value) └── autowired/ # Dependency injection using @Autowired
+src/
+└── main/
+    └── java/
+        └── hellospring/
+            ├── xmlconfig/     → XML-based Spring configuration
+            ├── javaconfig/    → Java annotations (@Component, @Value)
+            └── autowired/     → Dependency injection using @Autowired
 
 
 Each package includes:
@@ -32,7 +38,7 @@ Each package includes:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/spring-tp1.git
+   git clone https://github.com/ihya0x1/spring-initiation.git
    cd spring-tp1
 2. **Open the project in Eclipse**:
 
@@ -47,6 +53,7 @@ Each package includes:
 - TestAutowired.java → shows dependency injection via @Autowired
 
 🎯 Learning Objectives
+
 ✅ Understand XML-based configuration in Spring
 
 ✅ Use annotations like @Component, @Value, @Autowired
