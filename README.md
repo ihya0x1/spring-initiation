@@ -8,7 +8,7 @@ The objective is to learn the basics of Spring Framework, particularly how to co
 - **Dependency injection with @Autowired**
 
 ## 🧩 Project Structure
-
+```text
 src/
 └── main/
     └── java/
